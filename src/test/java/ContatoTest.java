@@ -11,5 +11,6 @@ public class ContatoTest {
         assertEquals("ze", c1.getNome());
         assertEquals(26, c1.getDiaAniversario());
         assertEquals(07, c1.getMesAniversario());
+
     }
 }
